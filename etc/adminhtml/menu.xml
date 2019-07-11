@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Excellence_ExcellenceSlider::excellence_slider_index" title="ExcellenceSlider" module="Excellence_ExcellenceSlider"  sortOrder="20" dependsOnModule="Excellence_ExcellenceSlider" action="excellenceslider/slider/index" resource="Excellence_ExcellenceSlider::excellence_slider_index"/>
+    </menu>
+</config>
